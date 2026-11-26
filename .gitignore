@@ -6,3 +6,5 @@ CHECKPOINT.md
 transcripts/
 *.bundle.tar.gz
 __pycache__/
+muse-usage.jsonl
+prompt.txt
