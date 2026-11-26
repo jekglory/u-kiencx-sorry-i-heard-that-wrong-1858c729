@@ -8,3 +8,4 @@ transcripts/
 __pycache__/
 muse-usage.jsonl
 prompt.txt
+competition.yaml
