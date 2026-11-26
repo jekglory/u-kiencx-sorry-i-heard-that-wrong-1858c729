@@ -1,0 +1,8 @@
+kit/
+*.tar.gz
+requirements.json
+competition.json
+CHECKPOINT.md
+transcripts/
+*.bundle.tar.gz
+__pycache__/
